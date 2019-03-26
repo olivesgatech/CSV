@@ -1,0 +1,41 @@
+___________________________________________________________________________________________________________________________________
+Author  : 	Dogancan Temel 
+PI	:	Ghassan AlRegib
+Version :	1.0
+
+The author is with Multimedia and Sensors Lab (MSL), Center for Signal and Information Processing, Georgia Institute of Technology, 
+Atlanta, GA. Kindly report any suggestions or corrections to dcantemel@gmail.com.
+___________________________________________________________________________________________________________________________________
+_____________________________________________________COPYRIGHT NOTICE______________________________________________________________ 
+Copyright (c) 2016 Georgia Institute of Technology, Multimedia and Sesnors Lab.
+All rights reserved.
+___________________________________________________________________________________________________________________________________
+Please, cite the following paper in your publication if you use this script.
+___________________________________________________________________________________________________________________________________
+Plain text:
+1) D. Temel and G. AlRegib, CSV: Image quality assessment based on color, structure, and visual system, Signal Processing: Image 
+Communication, Volume 48, October 2016, Pages 92-103
+
+BibTeX:
+@article{Temel201692,
+title = "CSV: Image quality assessment based on color, structure, and visual system ",
+journal = "Signal Processing: Image Communication ",
+volume = "48",
+number = "",
+pages = "92 - 103",
+year = "2016",
+note = "",
+issn = "0923-5965",
+doi = "http://dx.doi.org/10.1016/j.image.2016.08.008",
+url = "http://www.sciencedirect.com/science/article/pii/S0923596516301151",
+author = "Dogancan Temel and Ghassan AlRegib",
+keywords = "Full-reference image quality assessment",
+keywords = "Color difference equation",
+keywords = "Color name",
+keywords = "Retinal ganglion cell",
+keywords = "Suppression mechanism",
+keywords = "Color perception "
+}
+
+
+___________________________________________________________________________________________________________________________________
