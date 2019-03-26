@@ -11,7 +11,7 @@ ArXiv: https://arxiv.org/abs/1810.06464
 
 ScienceDirect: https://www.sciencedirect.com/science/article/pii/S0923596516301151  
 
-This is a brief explanation and demonstration of the proposed image quality assessment algorithm algorithm CSV. Given an original and a distorted image, CSV gives out a score that approximates the perceptual quality of the distorted image.
+This is a brief explanation and demonstration of the proposed image quality assessment algorithm algorithm CSV. Given an original and a distorted image, CSV outputs a score that approximates the perceptual quality of the distorted image.
 
 
 ### Citation
